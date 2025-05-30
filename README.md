@@ -1,14 +1,6 @@
-#### HOST: 172.17.1.81
-#### PORT: 9002
+#### HOST: 127.0.0.1
+#### PORT: 8082
 
-## ENDPOINTS
-### Swagger:
-- **GET** /swagger-ui/index.html
-### Images:
-- **GET**  /frontend-practice/images
-- **POST** /frontend-practice/images
-### Auth:
-- **POST** /frontend-practice/auth/login
-- **POST** /frontend-practice/auth/refresh
-### WebSocket:
-  - **ws** /frontend-practice/websocket
+## В данном учебном проекте необходимо реализовать такие задачи(инструменты) как:
+
+### 1. реализовать реактивщину в проекте Spring WebFlux.
